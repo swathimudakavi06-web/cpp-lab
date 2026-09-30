@@ -36,3 +36,8 @@ int main()
 
     return 0;
 }
+/*
+OUTPUT:
+ref -> min = 1 max = 9
+ptr -> min = 1 max = 9
+*/

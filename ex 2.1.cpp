@@ -12,3 +12,10 @@ cout << "Rectangle 4x5 = " << area(4,5) << endl;
 cout << "Triangle b=3,h=8 = " << area(3.0,8.0)<<endl;
 return 0;
 }
+/*
+OUTPUT:
+square(6) = 36
+Circle r=2 = 12.5664
+Rectangle 4x5 = 20
+Triangle b=3,h=8 = 12
+*/

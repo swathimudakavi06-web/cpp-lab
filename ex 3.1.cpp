@@ -50,3 +50,8 @@ int main() {
 
     return 0;
 }
+/*
+OUTPUT:
+Withdrawal denied (insufficient balance)
+Asha balance = 1200
+*/

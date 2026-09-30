@@ -17,3 +17,10 @@ int main(){
     cout<<"R"<<i<<"="<<(int)file[i].read()<<endl;
     return 0;
 }
+/*
+OUTPUT:
+R0=171
+R1=0
+R2=0
+R3=16
+*/

@@ -35,3 +35,10 @@ int main()
 
     return 0;
 }
+/*
+OUTPUT:
+Complex numbers:
+2 + 3i
+4 + 5i
+6 + 7i
+*/

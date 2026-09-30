@@ -17,3 +17,10 @@ cout << "Interest = " << interest(10000,2)<<endl;
 cout << "Interest = " << interest(10000,2,9.0)<<endl;
 return 0;
 }
+/*
+OUTPUT:
+[INFO]system started
+[WARN]low memory
+Interest = 1500
+Interest = 1800
+*/

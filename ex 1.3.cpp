@@ -15,3 +15,10 @@ for(int i=0; i<26; i++) if(freq[i]) cout << char('a'+i) << ":" << freq[i] << " "
 cout << endl;
 return 0;
 }
+/*
+OUTPUT:
+First 4: veri
+From 4: fication
+compare vs 'verify': <
+letter counts: a:1 c:1 e:1 f:1 i:3 n:1 o:1 r:1 t:1 v:1
+*/

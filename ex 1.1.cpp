@@ -14,3 +14,9 @@ alias=99;
 cout << "x via alias = " << x << endl;
 return 0;
 }
+/*
+OUTPUT:
+After swapRef: x = 20 y = 10
+After swapPtr: x = 10 y = 20
+x via alias = 99
+*/

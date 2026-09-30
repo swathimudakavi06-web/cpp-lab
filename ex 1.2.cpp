@@ -23,3 +23,16 @@ else cout << "an not found\n";
 
 return 0;
 }
+/*
+OUTPUT:
+Enter a word:banana
+Length: 6
+Upper: BANANA
+banana is NOT a palindrome
+an found at index 1
+Enter a word:madam
+Length: 5
+Upper: MADAM
+madam is a palindrome
+an not found
+*/
