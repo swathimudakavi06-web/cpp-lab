@@ -22,3 +22,8 @@ a.print();
 b.print();
 return 0;
  }
+ /*
+OUTPUT:
+hardware
+hardware
+*/

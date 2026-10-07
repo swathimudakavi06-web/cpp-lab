@@ -12,3 +12,13 @@ cout <<"enter block\n";
 cout<<"left block\n";
 return 0;
 }
+/*
+OUTPUT:
+enter block
+construct #1
+construct #2
+...working..
+destruct #2
+destruct #1
+left block
+*/

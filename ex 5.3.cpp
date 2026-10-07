@@ -15,3 +15,7 @@ Car c;c.accelerate();c.accelerate();
 Dashboard().display(c);
 return 0;
 }
+/*
+OUTPUT:
+spped=20km/h
+*/

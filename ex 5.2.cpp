@@ -17,3 +17,7 @@ Distance d3=add(d1,d2);
 d3.show();
 return 0;
 }
+/*
+OUTPUT:
+9ft3in
+*/

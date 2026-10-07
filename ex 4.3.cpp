@@ -13,3 +13,7 @@ Box a;Box b(3);Box c(2,3,4);
 cout <<a.volume() <<" "<<b.volume() << " "<<c.volume() <<endl;
 return 0;
 }
+/*
+OUTPUT:
+1 27 24
+*/
