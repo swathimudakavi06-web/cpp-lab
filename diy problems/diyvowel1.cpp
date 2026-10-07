@@ -33,3 +33,9 @@ int main()
 
     return 0;
 }
+/*
+OUTPUT:
+Enter a sentence: Hello World
+Number of vowels = 3
+Number of consonants = 7
+*/

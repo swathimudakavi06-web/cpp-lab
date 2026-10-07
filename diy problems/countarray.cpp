@@ -51,3 +51,10 @@ int main()
 
     return 0;
 }
+/*
+OUTPUT:
+Counter 1 = 2
+Counter 2 = 3
+Counter 3 = 1
+Counter 2 after reset = 0
+*/
