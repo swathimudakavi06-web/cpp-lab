@@ -1,0 +1,4 @@
+Asha,101,78,85,91,Total=254,Result=Pass
+Ravi,102,67,72,69,Total=208,Result=Pass
+Meena,103,92,88,95,Total=275,Result=Pass
+Kiran,104,28,64,70,Total=162,Result=Fail
