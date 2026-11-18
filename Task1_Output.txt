@@ -1,0 +1,24 @@
+Initial student count: 0
+
+--- Student Details ---
+Name        Roll No   Marks
+Asha        101       78.5
+Ravi        102       65.0
+Result: Pass
+Meena       103       91.0
+Result: Pass
+
+--- Friend Function ---
+Asha scored 78.5 marks.
+Meena scored 91.0 marks.
+
+--- Comparison using > operator ---
+Asha has higher marks than Ravi
+Meena has higher marks than Asha
+
+--- Static Member and Dynamic Object ---
+Current student count: 3
+After creating dynamic object: 4
+After deleting dynamic object: 3
+
+Program completed successfully.
